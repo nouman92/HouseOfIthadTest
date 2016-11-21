@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41457" started-at="2016-11-21T09:34:54Z" finished-at="2016-11-21T09:35:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41457" started-at="2016-11-21T09:34:54Z" finished-at="2016-11-21T09:35:35Z">
+      <class name="houseofithadtest.HouseOfIthadTestSuite">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:houseofithadtest.HouseOfIthadTestSuite@1bce4f0a]" name="beforeTest" is-config="true" duration-ms="926" started-at="2016-11-21T14:34:54Z" finished-at="2016-11-21T14:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="HouseOfIthad()[pri:0, instance:houseofithadtest.HouseOfIthadTestSuite@1bce4f0a]" name="HouseOfIthad" duration-ms="40411" started-at="2016-11-21T14:34:55Z" finished-at="2016-11-21T14:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HouseOfIthad -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:houseofithadtest.HouseOfIthadTestSuite@1bce4f0a]" name="afterTest" is-config="true" duration-ms="109" started-at="2016-11-21T14:35:35Z" finished-at="2016-11-21T14:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- houseofithadtest.HouseOfIthadTestSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
